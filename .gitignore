@@ -1,0 +1,12 @@
+/target/
+/.classpath
+/.project
+/.settings*/
+/*.csv
+/*.log
+/jacoco.exec
+*.DS_Store
+*.gz
+test.out
+
+/bin/
